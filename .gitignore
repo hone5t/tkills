@@ -41,7 +41,7 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
-
+*.sqlite3
 # virtal env
 venv/
 env/
